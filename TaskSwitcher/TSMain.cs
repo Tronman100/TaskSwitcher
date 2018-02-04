@@ -101,6 +101,7 @@ namespace TaskSwitcher
         {
             if (args.Length < 1)
             {
+                System.Console.Out.WriteLine("TaskSwitcher v1.0");
                 System.Console.Out.WriteLine("Usage: TaskSwitcher list");
                 System.Console.Out.WriteLine("Usage: TaskSwitcher <program name> [<start program>] [<args1>  - <argsN>]");
                 return;
