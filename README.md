@@ -26,7 +26,9 @@ If you are having trouble figuring out the correct window title, use the "list" 
 C:\TaskSwitcher-v1.0\TaskSwitcher.exe list
 
 PuTTY-WindowTitle1
+
 PuTTY-WindowTitle2
+
 etc
 
 Beware of any trailing spaces.
