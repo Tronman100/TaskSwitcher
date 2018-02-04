@@ -24,6 +24,7 @@ C:\Users\UserName\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\_hotkeys
 If you are having trouble figuring out the correct window title, use the "list" argument to see all of the window titles that are currently opened.
 
 C:\TaskSwitcher-v1.0\TaskSwitcher.exe list
+
 PuTTY-WindowTitle1
 PuTTY-WindowTitle2
 etc
